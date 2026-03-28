@@ -85,7 +85,7 @@ GitHub: https://github.com/asnahar1s
 LinkedIn: https://www.linkedin.com/in/asna-haris-684058319
 
 ## 📄 License
-This project is built as part of my Cybersecurity Internship Program.
+This project is built as part of my Cybersecurity Internship Program at Future Interns
 
 Website: https://www.futureinterns.com/
 
